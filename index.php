@@ -1,7 +1,7 @@
 <?php
 
-$sApplicationId = '1062290310449149';
-$sApplicationSecret = '0fd3d385b48373c062d5cbe74decab98';
+$sApplicationId = '[ID]';
+$sApplicationSecret = '[secret]';
 $iLimit = 99;
 
 ?>
